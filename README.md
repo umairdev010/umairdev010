@@ -24,13 +24,10 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=umairdev010&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umairdev010&theme=default)
-
+<div align = "center">
+<img align="center" height = "195" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairdev010&" alt="umairdev010" />
 </div>
+
 
 ---
 
