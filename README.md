@@ -24,10 +24,7 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 
 ## 📊 GitHub Stats
 
-<div align = "center">
-<img align="center" height = "195" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairdev010&" alt="umairdev010" />
-</div>
-
+![GitHub Streak Card](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/umairdev010?theme=58a6ff&hideAvatar=true&_t=1769214531579)
 
 ---
 
