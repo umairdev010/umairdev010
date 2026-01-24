@@ -23,9 +23,9 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Streak Card](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/umairdev010?theme=58a6ff&hideAvatar=true&_t=1769214531579)
-
+<div align="center">
+<img src="https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/umairdev010?theme=ffffff&hideAvatar=true&_t=1769289316758" alt="GitHub Streak Card"  />
+</div>
 ---
 
 ## 🛠️ Tech Stack
