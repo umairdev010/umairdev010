@@ -24,7 +24,7 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/umairdev010?theme=ffffff&hideAvatar=true&_t=1769289316758" alt="GitHub Streak Card"  />
+<img src="https://nirzak-streak-stats.vercel.app/?user=umairdev010&theme=dark&hide_border=false" alt="GitHub Streak Card"  />
 </div>
 ---
 
