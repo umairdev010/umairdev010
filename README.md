@@ -32,7 +32,6 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umairdev010&theme=white&hide_border=false&stroke=1A1A1A&background=FFFFFF&ring=6366F1&fire=10B981&currStreakLabel=374151)
 
 </div>
----
 
 ## 🛠️ Tech Stack
 
