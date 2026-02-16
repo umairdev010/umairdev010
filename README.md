@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm 
+# 👋 Hi, I'm UMAIR TARIQ
 
 ### Java Backend Developer | System Design Enthusiast | Problem Solver
 
