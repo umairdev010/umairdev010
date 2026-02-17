@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm UMAIR TARIQ
 
-### Java Backend Developer | System Design Enthusiast | Problem Solver
+### Java Backend Developer | System  Enthusiast | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-tariq-84b2b83a0)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/umairdev01/)
