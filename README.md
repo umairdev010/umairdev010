@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a **Java Backend Developer** passionate about building scalable web applications and architecting robust systems. I love diving deep into:
+I am a **Java  Developer** passionate about building scalable web applications and architecting robust systems. I love diving deep into:
 
 - 📐 **System Design Patterns**
 - 🔧 **Microservices Architecture**
