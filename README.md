@@ -28,38 +28,8 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-<div class="streak-card">
-        <div class="stats-grid">
-            <!-- Total Contributions -->
-            <div class="stat-item">
-                <span class="stat-number">243</span>
-                <span class="stat-label">TOTAL CONTRIBUTIONS</span>
-                <span class="stat-date">Dec 30, 2025 - Present</span>
-            </div>
-            
-            <!-- Current Streak -->
-            <div class="stat-item">
-                <span class="stat-number">35</span>
-                <span class="stat-label">CURRENT STREAK</span>
-                <span class="stat-date">Feb 21</span>
-            </div>
-            
-            <!-- Longest Streak -->
-            <div class="stat-item">
-                <span class="stat-number">35</span>
-                <span class="stat-label">LONGEST STREAK</span>
-                <span class="stat-date">Jan 16 - Feb 19</span>
-            </div>
-        </div>
-        
-        <!-- Optional: Add a subtle line to match GitHub's style -->
-        <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #21262d; text-align: center;">
-            <span style="color: #8b949e; font-size: 11px;">
-                ⚡ Update daily to maintain your streak
-            </span>
-        </div>
-    </div>
+
+  ![Umair's GitHub Streak](https://gist.githubusercontent.com/umairdev010/f2ca711becf1d6a351e2314f8b29cc21/raw/de800ec75dde2046674b2a415eb284dcb880c0a9/streak.svg?sanitize=true)
 
 </div>
 
