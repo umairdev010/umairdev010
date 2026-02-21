@@ -29,7 +29,7 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 ## 📊 GitHub Stats
 <div align="center">
 
-  ![Umair's GitHub Streak](https://gist.githubusercontent.com/umairdev010/f2ca711becf1d6a351e2314f8b29cc21/raw/de800ec75dde2046674b2a415eb284dcb880c0a9/streak.svg?sanitize=true)
+  ![Umair's GitHub Streak](https://gist.githubusercontent.com/umairdev010/f2ca711becf1d6a351e2314f8b29cc21/raw/52d2a25e166721781e415eca4f84ba08e1e460dd/streak.svg)
 
 </div>
 
