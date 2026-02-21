@@ -29,7 +29,37 @@ When I'm not crafting backend solutions, you'll find me sharpening my problem-so
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umairdev010&theme=white&hide_border=false&stroke=1A1A1A&background=FFFFFF&ring=6366F1&fire=10B981&currStreakLabel=374151)
+<div class="streak-card">
+        <div class="stats-grid">
+            <!-- Total Contributions -->
+            <div class="stat-item">
+                <span class="stat-number">243</span>
+                <span class="stat-label">TOTAL CONTRIBUTIONS</span>
+                <span class="stat-date">Dec 30, 2025 - Present</span>
+            </div>
+            
+            <!-- Current Streak -->
+            <div class="stat-item">
+                <span class="stat-number">35</span>
+                <span class="stat-label">CURRENT STREAK</span>
+                <span class="stat-date">Feb 21</span>
+            </div>
+            
+            <!-- Longest Streak -->
+            <div class="stat-item">
+                <span class="stat-number">35</span>
+                <span class="stat-label">LONGEST STREAK</span>
+                <span class="stat-date">Jan 16 - Feb 19</span>
+            </div>
+        </div>
+        
+        <!-- Optional: Add a subtle line to match GitHub's style -->
+        <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #21262d; text-align: center;">
+            <span style="color: #8b949e; font-size: 11px;">
+                ⚡ Update daily to maintain your streak
+            </span>
+        </div>
+    </div>
 
 </div>
 
